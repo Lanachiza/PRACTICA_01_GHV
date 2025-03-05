@@ -9,6 +9,7 @@ table {
     width: 50%;
     margin: 20px auto;
     border-collapse: collapse;
+    background-color: lightblue;
 }
 
 td {
@@ -20,3 +21,11 @@ td {
 tr:nth-child(even) {
     background-color: #ddd;
 }
+
+h1 {
+    color: yellow;
+    }
+
+p {
+    color:blue;
+    }
